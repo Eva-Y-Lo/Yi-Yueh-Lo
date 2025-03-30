@@ -26,7 +26,7 @@ Hello! I’m Yi-Yueh(Eva) Lo. I am deeply passionate about national, internation
 
 <h3 id="research-experience" style="color:blue;">Research Experience</h3>
 
-- **Research Assistant** at [Institute of Economics, Academia Sinica, Taipei, Taiwan]()
+- **Research Assistant** at [Institute of Economics, Academia Sinica, Taipei, Taiwan]
     - Supervision: Prof. [Yating Chuang](https://www.yatingchuang.com/)
     - Time: Aug 2024 - Jan 2025
     - Research Topic: post-Apartheid racial disparities and Black Economic Empowerment in South Africa.
