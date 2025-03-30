@@ -31,7 +31,7 @@ Hello! I’m Yi-Yueh(Eva) Lo. I am deeply passionate about national, internation
     - Time: Aug 2024 - Jan 2025
     - Research Topic: post-Apartheid racial disparities and Black Economic Empowerment in South Africa.
 
-- **Office Assistant** at [Kono Laboratory, Kyoto University}, Kyoto, Japan]
+- **Office Assistant** at [Kono Laboratory, Kyoto University, Kyoto, Japan]
     - Supervision: Prof. [Hisaki Kono](https://sites.google.com/site/hisakikono/)
     - Time: Feb 2025
     - Proofread Professor Kono's 300-page book on the basic concepts and history of development economics, causal inference, and econometrics.
