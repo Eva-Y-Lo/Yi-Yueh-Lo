@@ -84,4 +84,4 @@ Hello! I’m Yi-Yueh(Eva) Lo. I am deeply passionate about national, internation
 - **4th Place**, Women's Half Marathon, [Osaka Yodogawa Night Marathon](https://sportsone.jp/running/osaka-night/)
 - **Finisher**, [Toyoma Marathon 2024](https://www.toyamamarathon.com/)
 - **16th Place**, Women's Full Marathon 20 - 24 Age Group, [Kyoto Marathon 2025](https://kyoto-marathon.com/en/)
-- **6 Place**, Women's 9.5K, [Shengang Marathon 2025](https://lohasnet.tw/Shengang-marathon2025/)
+- **6th Place**, Women's 9.5K, [Shengang Marathon 2025](https://lohasnet.tw/Shengang-marathon2025/)
