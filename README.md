@@ -38,7 +38,7 @@ Hello! I’m Yi-Yueh(Eva) Lo. I am deeply passionate about national, internation
       
 <h3 id="skills" style="color:blue;">Skills</h3>
 
-- Programming Proficient: Python, R, MATLAB, Stata, LaTex
+- Programming: Python, R, MATLAB, Stata, LaTex
 - Languages: Mandarin (native), English (TOEFL 113/120), Japanese (JLPT N1 154/180), French (High A1), Taiwanese (Conversational)
 
 <h3 id="courses" style="color:blue;">Courses</h3>
